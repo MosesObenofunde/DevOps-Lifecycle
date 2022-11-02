@@ -1,4 +1,4 @@
-// Elements
+// Elements.
 const toggleThemeBtn = document.querySelector('.header__theme-button');
 const storiesContent = document.querySelector('.stories__content');
 const storiesLeftButton = document.querySelector('.stories__left-button');
